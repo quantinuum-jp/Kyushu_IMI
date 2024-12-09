@@ -9,7 +9,7 @@
 
 ２０２４年１２月１６日～１８日の日程で開催した量子人材育成の二日目にご紹介した[スクリプト](https://github.com/quantinuum-jp/Kyushu_IMI/tree/main/2024)になります。  
 [一般研究-短期共同研究「量子誤り訂正理論の表現論的アプローチと量子人材育成」](https://joint.imi.kyushu-u.ac.jp/post-14969/)  
-[Binder](https://mybinder.org/)を利用しまして、こちらのスクリプトを下記URLからお試しいただけます。
+[Binder](https://mybinder.org/)を利用しまして、こちらのスクリプトを下記URLからお試しいただけます。  
 https://mybinder.org/v2/gh/quantinuum-jp/Kyushu_IMI/main?labpath=2024
 
 ご不明な点等ございましたら  
