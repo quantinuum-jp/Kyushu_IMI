@@ -1,6 +1,9 @@
 pytket
+pytket-quantinuum
+pytket-quantinuum[pecos]
 pytket-qiskit
 pytket-braket
-pytket-qsharp
+pytket-azure
+pytket-qulacs
 pylatexenc
 matplotlib
